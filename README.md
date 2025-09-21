@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte do **Challenge de Lógica de Programaç
 
 ## 🖼️ Demonstração
 
-![Demonstração do Sorteador de Amigo Secreto](assets/amigo-secreto.png)
+![Demonstração do Sorteador de Amigo Secreto](assets/amigo-secreto_login.png)
 
 ## ✨ Funcionalidades
 
